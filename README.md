@@ -7,6 +7,10 @@ model = AutoModelWithLMHead.from_pretrained("BigSalmon/InformalToFormalLincoln15
 ```
 
 ```
+https://huggingface.co/spaces/BigSalmon/GPT2 (The model for this space changes over time)
+```
+
+```
 https://huggingface.co/spaces/BigSalmon/GPT2_Most_Probable (The model for this space changes over time)
 ```
 
