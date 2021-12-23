@@ -1,9 +1,10 @@
 Informal to Formal:
 ```
+pip install transformers
 from transformers import AutoTokenizer, AutoModelWithLMHead
   
-tokenizer = AutoTokenizer.from_pretrained("BigSalmon/InformalToFormalLincoln15")
-model = AutoModelWithLMHead.from_pretrained("BigSalmon/InformalToFormalLincoln15")
+tokenizer = AutoTokenizer.from_pretrained("BigSalmon/InformalToFormalLincoln16")
+model = AutoModelWithLMHead.from_pretrained("BigSalmon/InformalToFormalLincoln16")
 ```
 
 ```
