@@ -22,3 +22,4 @@
      - of course
      - it follows that
      - it is within reason to
+     - by all indications
