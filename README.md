@@ -16,6 +16,10 @@ https://huggingface.co/spaces/BigSalmon/GPT2_Most_Probable (The model for this s
 ```
 
 ```
+https://huggingface.co/spaces/BigSalmon/GPT2Space (The model for this space changes over time)
+```
+
+```
 How To Make Prompt:
 
 informal english: i am very ready to do that just that.
