@@ -37,3 +37,4 @@
      - a development of no small magnitude
      - proceeding along these lines
      - when faced with
+     - in the short term,
