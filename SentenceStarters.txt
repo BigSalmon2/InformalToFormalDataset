@@ -19,7 +19,6 @@
      - in the same vein
      - accordingly
      - in this direction
-     - of course
      - it follows that
      - it is within reason to
      - by all indications
@@ -38,3 +37,6 @@
      - proceeding along these lines
      - when faced with
      - in the short term,
+     - self-evidently
+     - evidently so 
+     - frankly
