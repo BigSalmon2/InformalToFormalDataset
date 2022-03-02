@@ -41,3 +41,5 @@
      - evidently so 
      - frankly
      - this feat is the fruit of
+     - in no uncertain terms
+     - with conviction
