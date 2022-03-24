@@ -49,3 +49,4 @@
      - all is not lost,
      - fret not though,
      - manifestly so,
+     - unmistakably so,
