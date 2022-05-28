@@ -1,0 +1,44 @@
+input: boring
+1800s english: banal, commonplace, dull, insipid, tedious, vapid, uninteresting, humdrum, monotonous
+
+***
+
+input: funny
+1800s english: humorous, comical, whimsical, amusing, hilarious, diverting, uproarious
+
+***
+
+input: hard-working attitude
+1800s english: industriousness, diligence, assiduity, diligence, exertion
+
+***
+
+input: time-sensitive
+1800s english: critical, pressing, urgent, exigent, immediate
+
+***
+
+input: stand-offish
+1800s english: cold, reserved, distant, aloof, chilly, withdrawn, unapproachable, stiff, unsociable, uncommunicative, forbidding
+
+***
+
+input: well-mannered
+1800s english: courteous, gracious, refined, amiable, well-bred, suave, polished, decorous, dignified, benevolent
+
+***
+
+input: extroverted
+1800s english: forward, boisterous, exuberant, bold, candid, exclamatory, outspoken, effusive, unreserved, rambunctious, self-assertive
+
+***
+
+input: no filter
+1800s english: crass, indiscreet, unvarnished, undiplomatic, blunt, forthright, plain-spoken
+
+***
+
+input: person that is just trying to get money
+1800s english: grifter, charlatan, finagler, huckster
+
+***
