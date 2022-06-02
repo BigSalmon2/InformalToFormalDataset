@@ -94,3 +94,5 @@
      - in the main
      - as a rule
      - for their part
+     - with an eye to
+     - in the name of
