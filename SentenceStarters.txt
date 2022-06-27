@@ -102,3 +102,4 @@
      - singular among
      - distinctive from
      - all told
+     - taken as a whole
