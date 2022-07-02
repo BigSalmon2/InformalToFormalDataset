@@ -1,4 +1,6 @@
 Informal to Formal:
+Paraphrase:
+Paraphrasing:
 ```
 pip install transformers
 from transformers import AutoTokenizer, AutoModelWithLMHead
