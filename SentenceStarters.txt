@@ -103,3 +103,4 @@
      - distinctive from
      - all told
      - taken as a whole
+     - the stage thus set
