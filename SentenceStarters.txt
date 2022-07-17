@@ -104,3 +104,4 @@
      - all told
      - taken as a whole
      - the stage thus set
+     - this much is evident in
