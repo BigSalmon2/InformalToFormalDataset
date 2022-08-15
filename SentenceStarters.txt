@@ -120,3 +120,4 @@
      - heedless of the implications
      - it stands to reason
      - as is only fitting
+     - to state the obvious
