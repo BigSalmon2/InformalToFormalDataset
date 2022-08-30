@@ -173,3 +173,4 @@
      - this is all the more troubling in light of the fact that
      - as is so often the case,
      - worse yet
+     - defying all reason
