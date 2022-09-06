@@ -182,3 +182,5 @@
      - it is hard to imagine
      - it is doubtful
      - having not the slighest
+     - at issue
+     - at variance with
