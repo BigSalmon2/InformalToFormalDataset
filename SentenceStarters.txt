@@ -187,3 +187,4 @@
      - it is hard to justify
      - it is only right that
      - viewed from afar
+     - it is to be expected
