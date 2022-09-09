@@ -198,3 +198,4 @@
      - in the process
      - there is reason to be
      - it creates the potential for
+     - no longer able to
