@@ -233,3 +233,5 @@
      - simply put
      - at last
      - quite simply
+     - in a departure from the norm
+     - by design
