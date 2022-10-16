@@ -244,3 +244,5 @@
      - this lends credence to the notion
      - it is a matter of fairness
      - this is to be distinguished from
+     - this entails
+     - this represents a rejection of
