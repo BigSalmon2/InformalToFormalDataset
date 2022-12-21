@@ -1,0 +1,357 @@
+S: revitalize - restore, enliven, modernize, reinvigorate, rejuvenate, renovate, replenish, resuscitate, revive, strengthen
+S: rigorous - severe, exact, precise, uncompromising, onerous, stringent, harsh, scrupulous, meticulous, rigid, stern, punctilious
+S: concise - short, pithy, succinct, terse, abridge, curt, laconic, synoptic, summary
+S: scintillating - bright, brilliant, dazzling, sparkling, gleaming, glimmering, lively, stimulating, ebullient, sprightly
+S: contaminate - adulterate, corrupt, infect, pollute, stain, tarnish, taint, desecrate, pervert, soil, spoil, sully
+S: compel - enforce, oblige, urge, necessitate, coerce, constrain
+S: facilitate - assist, aid, ease, expedite, promote, speed, simplify/ easy, effortless, adroit, deft, dexterous, practiced, profici
+S: sagacious - smart, judicious, acute, astute, discerning, discriminating, gnostic, keen, perceptive, perspicacious, shrewd, wise,
+S: obscure - ambiguous, complicated, cryptic, enigmatic, vague, murky, blurred, clouded, nebulous, faint, obfuscated, arcane, rec
+S: contemporary - modern, present-day, new, in vogue, state of the art/ existing, occurring at the same time, coexistent, coincident,
+S: severity - asperity, harshness, acerbity, austerity, rigor, sternness, strictness
+S: indignant - angry (at something unjust), furious, incensed, irate, livid, annoyed, miffed,
+S: solace - comfort, peace, condolence, pity, consolation, alleviation
+S: obtuse - slow, dumb, unintelligent, imperceptive, stolid
+S: sensationalism - exaggeration, hyperbole, overemphasis, aggrandizement, boasting, excess, hype, puffery
+S: amalgam - mixture, composite, fusion, compound
+S: felicitous - appropriate, suitable, apt, opportune, germane, propitious, pertinent, timely/ happy
+S: obstreperous - noisy, boisterous, clamorous, vociferous, riotous, unruly, tumultuous
+S: compensation - allowance, bonus, remuneration, reparation, restitution, stipend, wage/ rectification, amends, atonement, remitta
+S: cloying - saccharine, mawkish, over-sentimental, sickly sweet
+S: officious - dictatorial, intrusive, meddling, obtrusive, opinionated, overzealous, rude, pushy, nosy
+S: elitist - snobbish, supercilious, arrogant, snooty, stuck-up, aristocratic, pompous
+S: finesse - acumen, know-how, competence, savvy, skill, sophistication, tact, subtlety, adeptness, adroitness, polish/ artifice,
+S: opponent - adversary, foe, challenger, enemy, rival, foil, disputant, contestant
+S: inevitability - certainty, confidence, conviction/ destiny, fate, happenstance, predetermination/fatality, disaster, accident/essent
+S: omen - premonition, harbinger, indication, portent, auspice, prognostic, augury, prophecy, presage, foretoken
+S: omission - exclusion, lapse, oversight, breach, carelessness, failing, gap, neglect
+S: stymie - frustrate, hinder, crimp, foil, impede, obstruct, stall, thwart, nonplus, prevent
+S: flagrant - flaunting, blatant, without shame, atrocious, bold, brazen, conspicuous, disgraceful, egregious, heinous, notorious
+S: embolden - encourage, buoy, invigorate, reassure, spur, sway, boost, exhilarate, goad, revitalize, stir
+S: alacrity - liveliness, avidity, eagerness, enthusiasm, zeal / expedition, quickness, speed, promptness, sprightliness
+S: boon - advantage, blessing, godsend, windfall, benefit, gratuity, compliment, largess
+S: tangible - real, concrete, palpable, touchable, manifest, incarnated, material, patent, physical, verifiable, visible
+S: oust - expel, depose, dethrone, dislodge, eject, evict, unseat, relegate, banish, deprive, displace, fire, let go, lay off
+S: dire - urgent, acute, critical, desperate, drastic, extreme, crucial / alarming, awful, calamitous, cataclysmic, depressing
+S: disaffected - alienated, estranged, rebellious, discontented, dissatisfied, indifferent, seditious,
+S: flippant - irreverent, cheeky, cocky, disrespectful, glib, rude, brassy, fresh, sassy, superficial
+S: orthodox - ordinary, traditional, conventional, customary, decorous, banal, insipid, trite, hackneyed, prosaic, current, common
+S: interloper - intruder, trespasser, meddler, obtruder, alien
+S: palliate - cover up, cloak, conceal, camouflage, disguise, dissemble, excuse, hide/ allay, alleviate, assuage, ease, mitigate,
+S: conflate - merge, amalgamate, consolidate, converge, fuse, meld, unify, blend, commingle, pool, coalesce
+S: undone - ruined, destroyed/ distraught, crazed, distressed, disturbed, unnerved, upset/ open, unbuttoned, untied
+S: ensconce - hide, tuck away, situate, stash, bury, conceal, cache, nestle, plant, shelter, shield, station, install
+S: unstable - doubtful, ambiguous, erratic, fickle, insecure, irrational, precarious, risky, volatile, wobbly, rocky
+S: translate - interpret, explain, decipher, render, transcribe, decode, construe/ alter, convert, transform, turn,
+S: palpable - clear, obvious, apparent, conspicuous, credible, discernible, distinct, evident, noticeable, perceptible, visible/ c
+S: paradox - contradiction, puzzle, absurdity, ambiguity, anomaly, enigma, inconsistency, mystery, oddity, catch, nonsense
+S: paragon - apotheosis, epitome, exemplar, archetype, ideal, criterion, paradigm, prototype, quintessence
+S: disarming - charming, convincing, ingratiating, irresistible, persuasive, seductive, likable, winning
+S: accentuate - emphasize, highlight, underline, underscore, stress, feature, spotlight
+S: passive - lifeless, apathetic, indifferent, laid-back, static, unflappable, patient, yielding, acquiescent, compliant, latent,
+S: vibrant - alive, colorful, active, dynamic, energetic, lively, spirited, vigorous, vital, vivid, animated, vivacious/ throbbin
+S: commemorate - honor, celebrate, observe, remember, salute, pay tribute, memorialize
+S: pedestrian - ordinary, traditional, orthodox, customary, decorous, banal, insipid, trite, hackneyed, prosaic, current, commonplac
+S: confront - challenge, accost, defy, encounter, meet, oppose, repel, resist, flout, affront, stand up to
+S: veracity - truth, accuracy, authenticity, credibility, fairness, impartiality, integrity, rectitude, rightness, sincerity, cand
+S: pathos - poignancy, emotion, plaintiveness, sentiment, deep sadness
+S: disavow - reject, contradict, disclaim, repudiate, impugn, negate, renege, welsh
+S: voracious - ravenous, rapacious, devouring, avid, insatiable, prodigious, hungry, greedy
+S: waver - be indecisive, vacillate, wobble, undulate, yo-yo, quiver, oscillate, hesitate, dither, fluctuate, seesaw, deliberat
+S: foible - personal imperfections, failings, frailty, idiosyncrasy, infirmity, peculiarity, quirk, weakness, fault, vice, weakn
+S: legislation - law, act, bill, regulation, ruling, statute, prescription
+S: liberal - progressive, left, lenient, permissive, radical, reformist, tolerant/ giving, generous, free, prodigal/ abundant, pr
+S: scatter - disperse, diffuse, dispel, disseminate, shed, sunder, strew, discard, divide, shatter, spread, sprinkle
+S: pejorative - negative, belittling, debasing, deprecatory, depreciatory, derisive, derogatory, detracting, irreverent, slighting
+S: competence - capacity, ability, expertise, fitness, proficiency, qualification, savvy, suitability, adequacy
+S: peremptory - overbearing, authoritative, absolute, arbitrary, incontrovertible, dictatorial, domineering, intolerant, rigorous, s
+S: perfectionist - stickler, nit-picker, purist, quibbler, idealist
+S: perilous - dangerous, delicate, precarious, treacherous, risky, rugged, uncertain, unstable
+S: peripheral - minor, outside, incidental, tangential, borderline, inessential, secondary
+S: foresee - anticipate, predict, discern, envisage, forecast, foretell, perceive, presage, apprehend, forebode, prognosticate, p
+S: impetuous - impulsive, hasty, rash, sudden, spontaneous, unbridled / ardent, fervid, vehement
+S: implicate - imply, involve, entangle, embroil, incriminate, accuse, charge, associate, relate, insinuate, inculpate
+S: pervasive - ubiquitous, extensive, omnipresent, prevalent, common, rife, universal
+S: imperceptible - impalpable, faint, inaudible, gradual, indistinguishable, insignificant, invisible, subtle, undetectable, minute
+S: reminiscent - evocative, redolent, similar, nostalgic, recollective, suggestive of something in the past
+S: perspicacious - observant, perceptive, acute, astute, clever, keen, sagacious, shrewd, sharp, savvy
+S: foresight - insight, prudence, anticipation, circumspection, clairvoyance, discernment, discretion, discreetness, perception, pr
+S: charitable - altruistic, benign, humanitarian, philanthropic, magnanimous, tolerant, accommodating, generous, giving, kind, lenie
+S: imprudent - reckless, thoughtless, unwise, irresponsible, foolish, careless, rash, heedless, brash
+S: requisite - need, precondition, essential, necessity
+S: culpable - guilty, liable, impeachable, reprehensible, censurable
+S: inane - vacant, vacuous, vapid, stupid, absurd, asinine, daft, futile, imbecilic, insipid, puerile
+S: restraint - self-control, caution, moderation, self-discipline, abstemiousness, limitation, constraint, curb, arrest,
+S: forgo - abandon, abdicate, eschew, refrain, relinquish, renounce, waive, resign, surrender, yield, cede
+S: phlegmatic - unemotional, apathetic, desensitized, dispassionate, indifferent, lethargic, listless
+S: piety - devotion, religiousness, fervor, loyalty, zeal, obedience, veneration, fidelity
+S: resourcefu - imaginative, active, adventurous, capable, inventive, talented, creative, ingenious, sharp
+S: pivotal - important, central, climatic, critical, crucial, essential
+S: formulaic - stock, ordinary, conventional, average, commonplace, mechanical, plain, routine, standard, run of the mill
+S: beneficiary - person who benefits, heir, recipient, inheritor, successor
+S: inclination - tendency, bent, predilection, disposition, penchant, propensity, proclivity, temperament, predisposition, leaning/ s
+S: abolish - abrogate, annul, cancel, dissolve, eradicate, nullify, prohibit, rescind, revoke, terminate, suppress, annihilate, i
+S: plethora - surfeit, excess, deluge, glut, plenty, profusion, surplus
+S: resurgence - revival, comeback, rebound, rejuvenation, renaissance, resurrection, revitalization
+S: plague - afflict, beleaguer, haunt, infest, torment / epidemic, contagion, influenza, outbreak, pandemic/ curse, annoyance, b
+S: charlatan - swindler, con artist, cheat, fraud, imposter, quack, sham
+S: revelation - disclosure, telling, announcement, discovery, epiphany, leak, divulgement, manifestation, oracle, prophecy, unveilin
+S: revisionism - heresy, blasphemy, fallacy, atheism, dissent, divergence, nonconformity, impiety
+S: incoherence - disjointedness, incongruity, nonsense, unintelligibility, rambling
+S: inconclusive - ambiguous, deficient, incomplete, vague, up in the air, indeterminate
+S: robust - healthy, strong, hearty, potent, prosperous, sturdy, tough, vigorous, fit, stout
+S: eccentric - bizarre, unusual, erratic, idiosyncratic, outlandish, quirky, peculiar, weird/ person who is bizarre
+S: cure - heal, ease/ cook, age, dry, preserve, smoke
+S: poisonous - noxious, pernicious, virulent, venomous, lethal, fatal
+S: polarize - divide, separate, partition, sever, split
+S: convergence - union, concurrence, confluence, merging, meeting
+S: functional - working, practical, useful, utilitarian, operative
+S: concern - business, burden, interest, matter, affair, apprehension/ belong to, deal with, involve, regard, relate/ bother, dis
+S: incriminate - accuse, implicate, indict, prosecute, allege, cite, charge, inculpate, pin on
+S: portent - indication, forewarning, harbinger, omen, premonition, augury, presage, hunch, prognostication, sign/ marvel, phenom
+S: position - posture, stance, belief, point of view, status
+S: postpone - adjourn, defer, delay, shelve, table, protract, prolong
+S: absolutist - autocrat, despot, tyrant, dictator, full control, arbitrary
+S: furor - disturbance, excitement, agitation, enthusiasm, frenzy, hysteria, ruckus, tumult, uproar
+S: indefatigable - untiring, assiduous, diligent, dogged, energetic, inexhaustible, painstaking, relentless, unwavering, vigorous, indu
+S: seclusion - isolation, hiding, remoteness, solitude, aloofness, detachment, quarantine, sequestration, reclusiveness
+S: sedentary - motionless, lazy, inactive, torpid, sluggish, stationary, static
+S: concur - agree, approve, acquiesce, coincide, jibe, accede, accord, consent, combine, cooperate, harmonize, unite
+S: indeterminate - uncertain, vague, imprecise, indistinct, unspecified
+S: shun - avoid, ignore, despise, disdain, eschew, neglect, refuse, reject, scorn, snub, ditch, dodge, duck, elude, evade
+S: effective - productive, persuasive, adequate, competent, efficient, potent, sufficient, useful, valid/ active, direct, current,
+S: skittish - nervous, edgy, excited, jumpy
+S: gratify - satisfy, please, enchant, delight, thrill, indulge, fulfill, gladden, hit the spot, do the trick
+S: genius - acumen, aptitude, ingenuity, intelligence, prodigy, prowess, virtuoso, perspicacity, sagacity
+S: disdain - antipathy, contempt, derision, ridicule, superciliousness, indifference / abhor, belittle, deride, despise, spurn, i
+S: precise - exact, accurate, actual, correct, explicit, literal, rigid/ meticulous, fastidious, scrupulous, punctilious, uncompr
+S: disgruntle - disappoint, anger, annoy, discontent, irk, irritate
+S: indiscretion - imprudence, mistake, error, gaffe, lapse, recklessness, foolish, goof, bungle
+S: avert - thwart, avoid, deter, fend off, foil, halt, preclude, prevent, ward off, forestall, divert, stave off
+S: egalitarian - equal, equitable, democratic, unbiased, just, impartial
+S: sparse - meager, scant, scarce, skimpy, sporadic, inadequate, infrequent, scattered
+S: dislodge - knock loose, displace, uproot, remove, oust, eject, evict
+S: bewilder - baffle, confound, disconcert, fluster, perplex, stupefy, rattle, puzzle, mystify
+S: gratuitous - baseless, groundless, superfluous, unfounded, unwarranted, unjustified, wanton/free, spontaneous, complimentary, vol
+S: chicanery - duplicity, artifice, stratagem, machination, feint, ruse, ploy, subterfuge
+S: avid - enthusiastic, ardent, devoted, eager, fanatical, fervent, keen, passionate, ravenous, voracious, zealous
+S: spirituality - incorporeality, unearthliness/ piety, devoutness, holiness, religiosity
+S: guarded - suspicious, cautious, circumspect, reserved, restrained, attentive, discreet, wary, vigilant, leery
+S: inferiority - deficiency, inadequacy, mediocrity, lack
+S: pristine - immaculate, sterile, untouched, clean, pure, natural, unsoiled, primeval
+S: condense - abridge, compress, curtail, shorten, summarize, encapsulate, epitomize, summate, precipitate
+S: streamline - centralize, concentrate, consolidate, integrate, unify/ arrange, organize, assign, construct, mold / simplify, clari
+S: dispel - get rid of thought or belief, allay, disperse, dissipate, expel, scatter, eliminate, resolve
+S: amiable - affable, amicable, cordial, genial, gracious, complaisant, friendly, agreeable
+S: stickler - perfectionist, nitpicker, pedant, fanatic, contender, purist
+S: administer - carry out, govern, execute, direct, conduct, oversee, supervise/ apply, authorize, disburse, perform, dispense
+S: compliant - obedient, docile, willing, flexible, yielding, submissive, tractable, manageable
+S: elucidate - explicate, expound, illuminate, clarify, decode, enlighten, make plain or clear
+S: profligate - immoral, corrupt, debauched, reprobate, libertine, wanton, lewd, licentious, salacious, lascivious/ wasteful, extrav
+S: insistent - demanding, assertive, dire, empathic, incessant, persistent, resolute, unrelenting, urgent, dogged, obstinate
+S: coerce - compel, intimidate, strong-arm, force, impel, threaten, press, push
+S: dispense - disburse, furnish, allocate, share, give, distribute/ operate, administer, apply/ discharge, absolve, excuse, spare
+S: debunk - disprove, demystify, uncloak, unmask, unshroud, disparage, mock, ridicule, deflate, lampoon
+S: prognosticator - forecaster, prophet, soothsayer, augur, oracle, fortune-teller
+S: hedonistic - sybaritic, decadent, greedy, self-indulgent, pleasure seeking, intemperate, immoderate, epicurean
+S: prominent - conspicuous, obtrusive, salient, sticking out/ eminent, preeminent, renowned, notable, high-profile, distinguished,
+S: cohesive - united, close-knit, tenacious, connected
+S: bane - cause of misery, affliction, burden, blight, calamity, curse, despair, downfall, plague, torment
+S: susceptible - exposed, naïve, affected, impressionable, inclined, prone, vulnerable, disposed, gullible, swayed
+S: provident - frugal, discreet, expedient, prudent, shrewd, vigilant, careful
+S: hinder - prevent, burden, curb, deter, hamper, frustrate, handicap, impede, inhibit, obstruct, thwart, retard, stymie, encumb
+S: holistic - complete, whole, comprehensive, integrated, aggregate, entire, universal
+S: tenuous - weak, delicate, flimsy, insubstantial, dubious, nebulous, shaky, attenuated
+S: symbolic - representative, allegorical, emblematic, figurative, significant, token, typical, indicative
+S: emulate - copy actions, imitate, mimic, mirror, follow, follow suit
+S: tangential - digressing, extraneous, divergent, unrelated
+S: intelligible - understandable, comprehensible, fathomable, unequivocal, unambiguous
+S: chronicle - report, record, recount, narrate, register/ annals, record, diary, journal, narrative
+S: testify - vouch for, give testimony, announce, argue, assert, declare, depose, indicate, swear, corroborate, evince, warrant,
+S: therapeutic - curative, beneficial, remedial, salutary, salubrious, healing
+S: anomalous - abnormal, atypical, divergent, incongruous, peculiar, deviating from the normal, unorthodox, aberrant, eccentric
+S: intimate - devoted, friendly, affectionate, loving, personal, confidential, private/ confidant, comrade, associate, crony/ affi
+S: trenchant - acerbic, caustic, incisive, penetrating, pungent, salient, unsparing, explicit, sarcastic, scathing, sardonic
+S: pugnacious - belligerent, cantankerous, antagonistic, aggressive, choleric, combative, contentious, irascible, petulant, quarrels
+S: displace - evict, disturb, expel, uproot, dislodge, relegate, misplace, unsettle
+S: humane - kind, compassionate, benevolent, cordial, tolerant, merciful, lenient, clement, magnanimous
+S: cordial - affectionate, amicable, congenial, jovial, warmhearted, affable, convivial, polite
+S: intimidate - frighten, threaten, dismay, dishearten, alarm, coerce, daunt, terrorize, compel, ruffle
+S: qualify - certify, enable, capacitate, sanction, train/ lessen, restrict, abate, assuage, temper/ characterize, describe, mark
+S: unaffected - honest, guileless, sincere, straightforward, candid, direct/ unchanged, unmoved, impassive, impervious, untouched
+S: invalidate - render null and void, abolish, abrogate, impair, negate, nullify, revoke, undermine, annihilate, neutralize, quash
+S: combative - aggressive, bellicose, antagonistic, cantankerous, pugnacious, hawkish, truculent, warlike
+S: cacophony - dissonance, noise, discord, harshness
+S: intrusive - obtrusive, invasive, nosy, meddlesome, interfering, protruding, prying
+S: circulate - broadcast, disperse, disseminate, publicize, spread, propagate, promulgate/ rotate, travel, circle, wander, revolve
+S: amicable - amiable, cordial, courteous, harmonious, peaceful, concordant, sociable, friendly, congenial
+S: quixotic - idealistic, impractical, chimerical, dreamy, romantic, foolish
+S: iconoclast - detractor, dissenter, dissident, heretic, radical, critic, cynic, skeptic
+S: catastrophic - destructive, calamitous, disastrous, cataclysmic, tragic
+S: cajole - coax, flatter, seduce, entice, dupe, lure, delude, urge
+S: degenerate - corrupt, deteriorated, debased, debauched, decadent, decayed, degraded, retrograde, dissolute, nefarious, vicious
+S: jaded - indifferent, tired, weary, dulled, fatigued, exhausted, worn
+S: equitable - impartial, unbiased, just, nonpartisan, unprejudiced, objective, candid, fair, decent, proper
+S: rarified - purity, cleanse, decontaminate, exculpate, exonerate, sanctify, sanitize
+S: idealize - romanticize, glorify, rhapsodize, dream, admire
+S: dejected - depressed, blue, despondent, discouraged, disheartened, dispirited, gloomy, glum, morose, dampened, melancholy
+S: corrective - curative, remedial, palliative, restorative, healing, rehabilitative, antidotal, punitive
+S: rebuttal - counterstatement, reply, counterclaim, defense, answer
+S: dissent - discord, objection, resistance, schism, strife, contention, heterodoxy, conflict, disapproval
+S: jumble - hodgepodge, assortment, clutter, scramble, muddle, hash, tangle, mismatch
+S: vitriolic - acerbic, caustic, bitter/ antagonistic, scathing, harsh, butting
+S: volatile - explosive, changeable, capricious, erratic, fickle, unsettled, unstable, variable, mercurial
+S: belabor - dwell on, rehash, repeat, overwork, beat a dead horse
+S: vicarious - done, felt, experienced through or on behalf of another, by proxy, indirect, surrogate
+S: corruption - venality, bribery, extortion, fraud, malfeasance, racket, nepotism/ degradation, evil, depravity, decadence, pervers
+S: distill - condense, extract, refine, brew, draw out, make pure, concentrate, vaporize
+S: circumscribe - delineate, demarcate, define, mark off, delimit, outline, enclose, encircle
+S: courageous - brave, bold, adventurous, audacious, daring, gallant, resolute, tenacious, valiant, daredevil, indomitable, stalwart
+S: escalate - increase, expand, heighten, intensify, mount, widen, step up, magnify
+S: adversity - calamity, catastrophe, disaster, hardship, misery, misfortune, mishap, sorrow, suffering, distress
+S: immobility - apathy, languor, lassitude, lethargy, listless, paralysis, passivity / adherence, constancy, steadfastness, sturdine
+S: acclamation - ovation, salutation, approbation, adulation, applause, plaudits, tribute, jubilation, enthusiastic expression of app
+S: refined - urbane, genteel, polished, sophisticated, worldly, classy, cultivated, elegant, subtle/ pure, clean, distilled, filt
+S: court - woo, charm, entice, solicit, attract, allure, charm, entreat, flatter, fawn over, pursue
+S: immersed - absorbed, buried, consumed, engrossed, mesmerized, occupied, spellbound, engaged,
+S: euphemism - good way of saying something, circumlocution, inflation, equivocation, floridness
+S: consecrate - bless, dedicate, ordain, sanctify, honor, venerate, exalt, make holy
+S: conservatism - orthodoxy, moderation, preservation, traditionalism, unprogressiveness, opposition to change
+S: applaud - approve, cheer, commend, compliment, encourage, hail, laud, praise, clap for
+S: immune - invulnerable, exempt, resistant, unaffected, not subject to, insusceptible, not liable
+S: register - sink in, impress, dawn on, tell, have an effect on / record, express, manifest, mark, show, say, enroll, catalogue
+S: impartial - unprejudiced, candid, detached, disinterested, dispassionate, equitable, evenhanded, neutral, nonpartisan, objective
+S: ascetic - austere, disciplined, abstinent, Spartan, self-denying, strict
+S: literal - verbatim, accurate, actual, exact, real, authentic, word for word
+S: cataclysmic - destructive, calamitous, disastrous, catastrophic, tragic, fatal, ruinous
+S: tactful - thoughtful, careful, courteous, discreet, judicious, perceptive, polite, prudent, adroit, considerate, suave, aware
+S: exacting - demanding, harsh, imperious, onerous, precise, rigid, rigorous, strict, stringent, taxing, nit-picking
+S: regulate - control, coordinate, oversee, monitor, rectify, correct, moderate, reconcile, temper, tune, administer, adjust, mana
+S: subordinate - supplementary, accessory, auxiliary, dependent, satellite, subsidiary / aide, deputy, assistant
+S: discard - abandon, get rid of, dispense, scrap, shed, jettison, renounce, dispose, dump, ditch, dispossess
+S: concession - yielding, adjustment, acknowledgement, admission, compromise, grant, permit, assent
+S: charge - accuse, assault/ burden, tax/ command, supervise
+S: evident - conspicuous, clear, palpable, visible, incontrovertible, patent, axiomatic, manifest
+S: depict - describe, characterize, portray, illustrate, sketch
+S: counterfeit - bogus, fictitious, forged, fraudulent, spurious, feigned
+S: fiscal - monetary, financial, economic, budgetary, pecuniary, pertaining to money
+S: discursive - rambling, deviating, digressive, erratic, wandering
+S: coincidence - agreement, accord, concurrence, conformity, synchronism, union/ accident, fate, fluke, fortuity
+S: flaunt - advertise, brandish, proclaim, grandstand, boast, divulge, vaunt
+S: moratorium - suspension, ban, delay, free, halt, postponement, reprieve, abeyance, deferment, adjournment, respite
+S: morbid - gloomy, nasty, ghastly, ghoulish, grim, gruesome, macabre, pessimistic
+S: adoration - intense love, admiration, devotion, esteem, reverence, veneration, ardor, yen, idolatry, exaltation
+S: disenfranchise - enslave, coerce, deprive, imprison, incarcerate, oppress, shackle, subjugate, suppress, take away voting rights
+S: disciple - follower, adherent, cohort, zealot, sectary, partisan
+S: beneficence - donation, aid, benefaction, altruism, goodwill, philanthropy, kindheartedness
+S: moribund - dying, doomed, fated, declining, expiring
+S: evade - avoid, bypass, circumvent, conceal, elude, shun, shirk, sidestep, flee, dodge
+S: invigorate - stimulate, energize, enliven, excite, galvanize, rejuvenate, revitalize, exhilarate, animate, rally
+S: vehemence - fervor, intensity, ferociousness, frenzy, fierceness
+S: courteous - gentle, mannerly, affable, attentive, civil, courtly, debonair, genteel, urbane, suave, refined, gallant
+S: astronomical - huge, colossal, considerable, enormous, vast, monumental, gigantic, tremendous, epic
+S: unjust - biased, inequitable, prejudiced, unjustified, fixed, influenced
+S: faculty - ability, adroitness, aptitude, aptness, capacity, dexterity, facility, knack/ staff, teachers, advisers
+S: absolve - acquit, exempt, exonerate, exculpate, pardon, relieve, vindicate, discharge, excuse, spare, release
+S: muddle - confused, blurred, convoluted, messy, jumbled, disorganized, scrambled
+S: flout - show contempt, defy, disregard, mock, repudiate, scorn, spurn, affront, jeer, gibe, deride, sneer, scoff, taunt
+S: muted - dampen, soften, subdue, hush, muffle, muzzle, silence, drown
+S: disillusionment - adversity, chagrin, discontent, disenchantment, dissatisfaction, distress, dismay, dread, anxiety, trepidation, disa
+S: fluster - agitation, perturbation, upset, dither, brouhaha/ agitate, bewilder, confound, discombobulate, nonplus, perplex
+S: satirize - lampoon, mock, parody, ridicule, banter, caricature, deride, jeer, spoof
+S: foil - antithesis, counterblow, antagonist, antihero/ circumvent, counter, curb, elude, hinder, nullify, prevent, thwart, s
+S: intermittent - fitful, infrequent, occasional, periodic, recurrent, isochronal
+S: disjointed - incoherent, jumbled, rambling, loos, rambling, muddled, disunited
+S: ritualistic - formal, ceremonial, conventional, established
+S: disintegrate - fall apart, break down, crumble, decay, decompose, disband, dismantle, shatter, splinter, wither
+S: nebulous - confused, obscure, ambiguous, amorphous, hazy, imprecise, murky, shadowy, vague
+S: fond - affectionate, enamored, indulgement, sentimental, sympathetic, adoring, doting, tender, warm
+S: irascible - cantankerous, crabby, cranky, grouchy, surly, testy, uptight, peevish, petulant, querulous
+S: devotion - adherence, adoration, enthusiasm, fealty, passion, fidelity, zeal
+S: surmise - guess, conclusion, assumption, conjecture, deduction, hunch, speculation, supposition, theory, presumption
+S: nihilism - atheism, lawlessness, anarchy, disorder, rejection of established laws
+S: forego - eschew, forfeit, forsake, relinquish, renounce, waive, refrain, sacrifice
+S: audacious - reckless, daring, adventurous, bold, courageous, resolute, foolhardy, bold, brazen, arrogant, presumptuous
+S: vertiginous - dizzy, spinning, unstable, turning
+S: foreboding - apprehension, dread, premonition, misgiving, bad omen, forewarning, portent, presage, prophecy, warning, augury
+S: truncate - shorten, abbreviate, abridge, curtail, cut short, clip, prune, pare
+S: cognitive - realistic, sound of mind, intelligent, logical, lucid, sane, sensible, knowing, rational, plausible
+S: covert - hidden, surreptitious, undercover
+S: ameliorate - alleviate, amend, assuage, correct, mitigate, rectify, redress, relieve, solve, palliate, treat, recalibrate
+S: nostalgia - longing, remorse, sentimentality, wistfulness, yearning
+S: nullify - cancel, revoke, abolish, abrogate, annul, invalidate, negate, quash, rescind, veto, void, vitiate, renege, neutralize
+S: denude - strip, bare, disrobe, expose, uncover
+S: cosmetic - beautifying, superficial, surface, nonessential, relating to appearance
+S: mercenary - greedy, acquisitive, selfish, unscrupulous/ person who fights, kills, works for money
+S: nuance - slight difference, shading, distinction, subtlety, shadow, trace, tinge
+S: voluble - talkative, loquacious, garrulous, babbling, prattling, rambling, motor mouth
+S: dismantle - take apart, break up, demolish, raze, wreck, annihilate, decimate, dismember, level
+S: foreshadow - indicate, augur, foretell, portend, predict, presage, forebode, shadow, suggest
+S: envelop - blanket, drape, encircle, enclose, encompass, enfold, engulf, obscure, shroud, surround, swaddle, swathe, wrap
+S: cliche - adage, banality, bromide, commonplace, triteness, triviality
+S: entitled - designate, characterize, denominate, title, dub, term
+S: artifice - hoax, gimmick, con, deception, ruse, stratagem, subterfuge, ploy, duplicity, guile, trickery/ deftness, skill, cleve
+S: cowardice - timidity, faintheartedness, gutlessness, pusillanimity, fear
+S: retrograde - reverting, declining, deteriorating, inverted, receding, worsening
+S: covet - strongly desire, crave, envy, lust after, fancy, long for, yen for, yearn for
+S: foretell - predict, warn, anticipate, augur, foreshadow, portend, prophesy, signify, presage
+S: auditors - accountant, bookkeeper, actuary, inspector of financial records
+S: aplomb - equanimity, assurance, nonchalance, confidence, poise, coolness
+S: smugness - being elitist, arrogance, disdain, egotism, hubris, pride, vanity, complacency, self-regard, pomposity, snobbery,
+S: squalid - poor, run-down, filthy, grimy, ramshackle, shabby, sordid, wretched, foul, repulsive
+S: obsolete - antiquated, archaic, out-of-date, outmoded, anachronistic, antediluvian, superannuated
+S: adept - adroit, deft, proficient, skilled, versed, capable, accomplished
+S: forthright - straightforward, honest, blunt, candid, categorical, aboveboard, sincere
+S: spellbound - enchanted, fascinated, amazed, bemused, breathless, captivated, enthralled, rapt, bewitched, mesmerized, transfixed
+S: obliterate - destroy, annihilate, eradicate, expunge, exterminate, ravage, efface, extirpate, eliminate
+S: craven - weak, timid, cowardly, chicken, yellow, pusillanimous, wimpy
+S: fortitude - strength of mind, courage, boldness, bravery, determination, endurance, stamina, perseverance, tenacity, valor
+S: fortify - brace, buttress, reinforce, secure, strengthen, protect, embolden, energize, invigorate
+S: concession - yielding, adjustment, acknowledgement, admission, compromise, grant, permit, assent
+S: devoid - empty, wanting, bare, barren, lacking, vacant, bereft, destitute, void
+S: fortuitous - accidental, random, unforeseen, serendipitous, unplanned
+S: founder - go under, fail, collapse, implode, abort, stumble, collapse
+S: iterate - say again, emphasize, repeat, go over
+S: stratify - layer, plate, form strata, develop hierarchy, status
+S: arbitrary - whimsical, capricious, erratic, inconsistent, irrational, random, unreasonable, autocratic, absolute, domineering
+S: invaded - breach, infect, infest, penetrate, plunder, ravage, raid, permeate, entrench, swarm
+S: irrefutable - indisputable, unassailable, undeniable, indubitable, incontrovertible, incontestable, unquestionable
+S: gullible - naïve, trusting, foolish, unsophisticated, unsuspecting, credulous, sucker, easily taken
+S: entice - allure, persuade, attract, cajole, coax, seduce, tempt, bait, entrap, lure
+S: jingoism - chauvinism, ethnocentricity (excessive pride in one's country), nationalism, zealotry, fanaticism
+S: jovial - affable, amiable, buoyant, cheery, chipper, convivial, cordial, festive, jolly, sociable
+S: latitude - freedom, scope, elbow room, breadth, compass
+S: lax - slack, remiss, careless, indifferent, lenient, negligent, sloppy, vague
+S: retain - cling to, contain, maintain, possess, preserve, save, keep / employ, maintain, commission, contract, engage
+S: entrepreneur - businessperson, industrialist, undertaker, one who takes risks and starts a business alone
+S: sumptuous - luxurious, splendid, beautiful, deluxe, elegant, magnificent
+S: bromide - platitude, cliché, banality, compound, stereotype
+dissenting, disagreeing, opposed, clashing, conflicting, contradicting; nonconforming, revolutionary, radical, anarchic; hostile, resentful, revengeful, antagonistic, bellicose, belligerent
+S: forthcoming - communicative, cooperative, plain-spoken, responsive, compliant, unevasive, straightforward, obliging, divulging, unconcealed, transparent, expressive, frank, candid, upfront, open.
+S: anonymous - secretive, anonymous, cloaked, ambiguous, cryptic, disguised, enigmatic, covert, masked, untraceable, hidden, oblique, furtive, concealed, shadowy, murky, invisible.
+S: pessimistic - cynical, negative, distrustful, doubtful, skeptical, grim.
+S: friendly - social, convivial, generous, open-minded, outgoing, liberal, easygoing, genial, free-spirited, hospitable, approachable, neighborly, sociable, informal, affable, gregarious, intimate, unpretentious, easygoing, warmhearted.
+S: boring - dull, tiresome, wearisome, humdrum, staid, uninteresting, unexciting, prosaic, tedious, mind-numbing, dreary, monotonous, pedestrian, stale, commonplace, lackluster, tedious, tiresome, repetitive, drudging.
+S:  strong - powerful, resolute, mighty, muscular, sturdy, forceful, rugged, burly.
+S: adventurous - wild, daring, reckless, daredevil, foolhardy, intrepid, audacious.
+S: unattractive, hideous, grotesque, unappealing, unsightly.
+S: active - bustling, energetic, strenuous, animated, vivacious, vigorous, robust, zestful.
+S: happy - cheerful, carefree, optimistic, content, confident, upbeat, glad, satisfied, grateful, delighted.
+S: impulsive - impetuous, capricious, reckless, spontaneous, willful, unpredictable, spontaneous, hasty.
+S: tolerant - open-minded, liberal, non-judgmental.
+S: responsible - conscientious, reliable, accountable, punctual, conscientious, diligent, dutiful, diligent, organized.
+S: polite - respectful, courteous, mannerly, civil, chivalrous, refined, tactful.
+S: brave - courageous, bold, daring, fearless, intrepid, resolute, plucky, stalwart.
+S: hard-working - industrious, conscientious, sedulous, energetic, diligent, zealous, tireless
+S: shy - bashful, demure, reserved, timid, awkward, diffident, introverted.
+S: unfriendly - surly, aloof, hostile, unaccommodating, glum, taciturn.
+S: conservative - cautious, skeptical, risk-averse, doubtful, restrained, restrained, moderate, judicious.
+S: anxious - worried, apprehensive, concerned, restless, uneasy, edgy, distressed, fretful.
+S: angry - furious, enraged, incensed, wrathful, irate, resentful, antagonistic.
+S: creative - imaginative, resourceful, innovative, inspired, productive, artistic, ingenious, unorthodox, inventive, novel.
+S: funny - humorous, witty, amusing, facetious, wry, droll, comical, satirical.
+S: relaxed - calm, composed, at ease, unperturbed, tranquil, unruffled, easygoing.
+S: interested - curious, intrigued, attentive, absorbed, engrossed, fascinated.
+S: gullible - credulous, naïve, susceptible, impressionable, simple-minded.
+S: rational - objective, unemotional, lucid, logical, coherent, sound, judicious, levelheaded, analytical.
+S: rude - impolite, discourteous, blunt, brusque, unmannerly, vulgar, coarse, uncivil, insensitive, uncouth, curt, impudent, insolent, gruff, boorish, obnoxious, ungracious.
