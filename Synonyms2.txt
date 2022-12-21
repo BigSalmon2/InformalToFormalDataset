@@ -355,3 +355,4 @@ S: interested - curious, intrigued, attentive, absorbed, engrossed, fascinated.
 S: gullible - credulous, naïve, susceptible, impressionable, simple-minded.
 S: rational - objective, unemotional, lucid, logical, coherent, sound, judicious, levelheaded, analytical.
 S: rude - impolite, discourteous, blunt, brusque, unmannerly, vulgar, coarse, uncivil, insensitive, uncouth, curt, impudent, insolent, gruff, boorish, obnoxious, ungracious.
+S: unpicky - easygoing, undemanding, low-maintenance, compromising, agreeable, adapatable, indiscriminate, permissive, lax, uncritical, low-key
