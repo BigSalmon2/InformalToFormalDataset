@@ -278,3 +278,4 @@
      - as part of
      - in concert with
      - to accompany these changes
+     - offering a contrast to the
