@@ -280,3 +280,4 @@
      - to accompany these changes
      - offering a contrast to the
      - ill-matched to its
+     - even more instructive was
