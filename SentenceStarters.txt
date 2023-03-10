@@ -9,6 +9,7 @@
      - without fail 
      - no ifs and buts 
      - in this context
+     - as a baseline
      - that is to say
      - sure enough,
      - a foregone conclusion
