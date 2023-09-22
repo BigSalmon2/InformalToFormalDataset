@@ -292,3 +292,4 @@
      - it is said that
      -  offering a contrast 
      -  in its current incarnation
+     -    - the steep costs of
