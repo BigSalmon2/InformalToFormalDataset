@@ -295,3 +295,4 @@
      -    - the steep costs of
      - nor is this the extent
      - equally telling
+     - in a more concrete manifestation
