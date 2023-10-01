@@ -307,3 +307,4 @@
      - it can be stated with a high degree of confidence
      - it would not contradict known facts to propose that
      - there is room for the notion that
+    - it is all but incontrovertible that
