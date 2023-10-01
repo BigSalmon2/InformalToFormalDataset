@@ -305,3 +305,4 @@
      - it could credibly be maintained that
      - the signs point quite conclusively to the fact that
      - it can be stated with a high degree of confidence
+     - it would not contradict known facts to propose that
