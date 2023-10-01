@@ -301,3 +301,7 @@
      - it is within the bounds of possibility that
      - it would not be unreasonable to entertain the idea that
      - there is a real possibility that
+     - it could very well be the case that
+     - it could credibly be maintained that
+     - the signs point quite conclusively to the fact that
+     - it can be stated with a high degree of confidence
