@@ -311,3 +311,4 @@
     - a reasonable foundation exists from which to conclude that
     - it is but a small leap to imagine how harshly
     - it is sobering to contemplate
+    - one is compelled to conclude given available X that
