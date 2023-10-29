@@ -314,3 +314,4 @@
     - it is sobering to contemplate
     - one is compelled to conclude given available X that
    - it adds clarity to consider that
+- the philosophy it rests on is that
