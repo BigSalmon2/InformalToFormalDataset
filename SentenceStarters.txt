@@ -318,3 +318,4 @@
 - not mincing any words
 - the burden [] falls on
 - [X] has been at the forefront of
+- speaking plainly
