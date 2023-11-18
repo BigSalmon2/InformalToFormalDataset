@@ -317,3 +317,4 @@
 - the philosophy it rests on is that
 - not mincing any words
 - the burden [] falls on
+- [X] has been at the forefront of
