@@ -338,3 +338,4 @@
 - this [x] finds its fullest expression
 - there are no better
 - at the vanguard of
+- in the new formulation
