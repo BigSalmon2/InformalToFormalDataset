@@ -362,3 +362,4 @@
 - their bet is that
 - their ultimate hope is that
 - the likely thinking behind
+- it works under the assumption that
