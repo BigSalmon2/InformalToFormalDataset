@@ -367,3 +367,4 @@
 - it imagines that
 - it calculates that
 - from here,
+- this expectation is predicated upon
