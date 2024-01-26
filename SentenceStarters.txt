@@ -368,3 +368,5 @@
 - it calculates that
 - from here,
 - this expectation is predicated upon
+- in its estimation
+- it is wagering
