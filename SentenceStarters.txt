@@ -364,3 +364,5 @@
 - the likely thinking behind
 - it works under the assumption that
 - if all goes according to plan
+- it imagines that
+- it calculates that
