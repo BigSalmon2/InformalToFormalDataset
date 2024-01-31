@@ -56,3 +56,18 @@ not:
 - not in the least
 - not to be discounted
 - not for a lack of
+
+
+Summarizing someone else's position:
+- X argues that ___.  
+- In X's view, ___.
+- According to X, ___. 
+- X maintains that ___.
+- X's central claim is that ___.
+- X believes/contends/asserts that ___.
+- X takes the position that ___.
+- X suggests/proposes/theorizes that ___.
+- From X's perspective, one must/should/could/might/will ___.
+- X makes the case that/for ___.
+- X's core idea is/perspective is that/argument is that/claim is that ___.
+- X frames/defines/characterizes the issue as one of ___.
