@@ -403,3 +403,4 @@
 - this was inconceivable
 - there is no better way to demonstrate
 - this is a tacit admission of
+- by natural extension
