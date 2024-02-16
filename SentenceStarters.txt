@@ -413,3 +413,4 @@
 - on cue
 - then again
 - in more concrete terms
+- barring a major shift in dynamics
