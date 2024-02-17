@@ -418,3 +418,4 @@
 - It does not definitively prove
 - There are no guarantees that
 - The full picture involves more than
+- A mutually satisfactory resolution may look like
