@@ -421,3 +421,13 @@
 - A mutually satisfactory resolution may look like
 - It presents an opportunity to
 - The fallout continues to be felt in
+
+
+
+- Blame laying through questioning motives or intentions ("One has to wonder whether...", "It raises the suspicion that...")
+- Blame laying through comparative negligence ("Others in a similar situation...", "Had they shown the foresight of...")
+- Blame laying through emphasizing agency ("They had the means to…", "It was well within their control to…", "As the one(s) charged with...")
+- Blame laying through counterfactuals ("If only they had...", "How different it would be now...")
+- Blame laying through emphasizing ease of alternative ("It would have taken so little to...", Had they only bothered to...”)
+- Blame laying through emphasizing lack of impediments/constraints ("There was nothing preventing them from ....", "Nothing stood in the way of...", "The conditions were perfect to...")
+- Blame laying through emphasizing foreseeability ("It was a foregone conclusion that...", "It was a given that...", "There were ample indications that...", "It was clear from the outset that...")
