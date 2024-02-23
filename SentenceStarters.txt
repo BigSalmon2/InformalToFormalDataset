@@ -428,7 +428,15 @@
 - Then factor in
 - Of overriding/fundamental importance is...
 - It cannot be overemphasized that...
-
+- There is a remote possibility that...
+- The prevailing view maintains that.
+- All eyes have turned to
+- All signs point to
+- This situation parallels
+- Such a situation brings to mind
+- This marks a first for
+- Even setting aside the question of whether
+- As predicted...
 
 - Blame laying through questioning motives or intentions ("One has to wonder whether...", "It raises the suspicion that...")
 - Blame laying through comparative negligence ("Others in a similar situation...", "Had they shown the foresight of...")
