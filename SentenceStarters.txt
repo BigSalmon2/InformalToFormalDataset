@@ -451,6 +451,7 @@
 - It is the consensus view within [field] circles that...
 - In one unusual instance...
 - Viewed in a relative context
+- under ideal conditions
 
 - Blame laying through questioning motives or intentions ("One has to wonder whether...", "It raises the suspicion that...")
 - Blame laying through comparative negligence ("Others in a similar situation...", "Had they shown the foresight of...")
