@@ -456,6 +456,23 @@
 - whether by design or not,
 - in so many words,
 
+- Affective processes: Words related to emotions like happy, cried, abandon
+- Positive emotion: Words like love, nice, sweet 
+- Negative emotion: Words like hurt, ugly, nasty
+- Anxiety: Words like worried, fearful, nervous
+- Sadness: Words like cried, grief, sad
+- Cognitive processes: Words related to thinking like cause, know, ought  
+- Insight: Words like think, know, consider
+- Causation: Words like because, effect, hence  
+- Discrepancy: Words like should, would, could  
+- Tentative: Words like maybe, perhaps, guess
+- Certainty: Words like always, never
+- Perceptual processes: Words related to seeing, hearing, feeling like observe, heard, touch
+- Biological processes: Words related to body/health like eat, blood, pain 
+- Work: Words like job, majors, office 
+- Achievement: Words like win, success, better
+- Risk: Words like danger, doubt, cautious
+
 - Blame laying through questioning motives or intentions ("One has to wonder whether...", "It raises the suspicion that...")
 - Blame laying through comparative negligence ("Others in a similar situation...", "Had they shown the foresight of...")
 - Blame laying through emphasizing agency ("They had the means to…", "It was well within their control to…", "As the one(s) charged with...")
