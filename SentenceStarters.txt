@@ -503,3 +503,11 @@
 - Blame laying through emphasizing ease of alternative ("It would have taken so little to...", Had they only bothered to...”)
 - Blame laying through emphasizing lack of impediments/constraints ("There was nothing preventing them from ....", "Nothing stood in the way of...", "The conditions were perfect to...")
 - Blame laying through emphasizing foreseeability ("It was a foregone conclusion that...", "It was a given that...", "There were ample indications that...", "It was clear from the outset that...")
+
+
+- Explaining self-reinforcing dynamics sentence ("...feeds into...", "...becomes self-perpetuating as...", "...is perpetuated through...")
+- Detailing obstacle to progress sentence ("...stands in the way of...", "...impedes movement on...", "...functions as a roadblock to...")
+- Tracing institutional embodiment sentence ("...is embedded within...", "...is reflected in the practices of...", "...manifests itself in the policies of...")
+- Noting cultural maintenance sentence ("...is reproduced through...", "...persists via...", "...gets reinforced culturally by...")
+- Suggesting negative feedback loop sentence ("...creates a vicious cycle whereby...", "...spins out of control through...", "...spawns further...")
+
