@@ -467,6 +467,18 @@
 - in the unlikely event that
 - granting for speculation's sake that 
 
+"- ("On cue...", "As predicted...", "To no one's surprise..."):  Suggesting confirmation of expectations 
+- ("This all began when...", "This chain of events began with...", "This is a direct consequence of..."): Tracing present to past cause sentence
+-  ("Even if by some chance...", "If by some miracle...", "In the unlikely event that..."): Contemplating unlikely possibility sentence
+- ("In more concrete terms...", "More specifically...", "Lest there be any ambiguity..."): Clarifying abstract notion sentence
+- ("Then again...", "That said...", "Having said that..."): Acknowledging possible exception sentence
+- ("To put it simply...", "At its core...", "Boiled down..."): Distilling a complex topic into simpler terms.
+- ("Needless to say...", "It goes without saying that...", "Of course..."): Signaling obvious point sentence.
+- ("On a related note...", "In a similar vein...", "In a parallel situation..."): Signaling connection to a separate but related issue
+- ("To be sure...", "It's worth noting that...", "It bears emphasizing that..."): Signaling an important qualifying point"
+- ("To begin with...", "At the outset...", "As a starting point..."): Signaling the beginning of a line of reasoning
+- ("In the final analysis...", "Ultimately...", "When all is said and done..."): Signaling a culminating conclusion
+
 - Affective processes: Words related to emotions like happy, cried, abandon
 - Positive emotion: Words like love, nice, sweet 
 - Negative emotion: Words like hurt, ugly, nasty
