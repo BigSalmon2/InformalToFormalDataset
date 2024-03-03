@@ -478,6 +478,7 @@
 - ("To be sure...", "It's worth noting that...", "It bears emphasizing that..."): Signaling an important qualifying point"
 - ("To begin with...", "At the outset...", "As a starting point..."): Signaling the beginning of a line of reasoning
 - ("In the final analysis...", "Ultimately...", "When all is said and done..."): Signaling a culminating conclusion
+- ("If that weren't enough...", "Even more troubling...", "Worse yet..."): Highlighting a significant aggravating factor
 
 - Affective processes: Words related to emotions like happy, cried, abandon
 - Positive emotion: Words like love, nice, sweet 
