@@ -480,6 +480,7 @@
 - mundane though it may be,
 - from all appearances
 - in another reminder that
+- at its worst, it could conceivably
 
 "- ("On cue...", "As predicted...", "To no one's surprise..."):  Suggesting confirmation of expectations 
 - ("This all began when...", "This chain of events began with...", "This is a direct consequence of..."): Tracing present to past cause sentence
