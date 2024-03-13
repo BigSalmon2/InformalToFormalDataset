@@ -478,6 +478,7 @@
 - against the specter of
 - the steep odds that
 - mundane though it may be,
+- from all appearances
 
 "- ("On cue...", "As predicted...", "To no one's surprise..."):  Suggesting confirmation of expectations 
 - ("This all began when...", "This chain of events began with...", "This is a direct consequence of..."): Tracing present to past cause sentence
