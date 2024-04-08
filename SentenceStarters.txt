@@ -517,6 +517,7 @@
 - this has its roots in
 - the offending act
 - this represents the culmination of
+- this is a logical consequence of
 
 "- ("On cue...", "As predicted...", "To no one's surprise..."):  Suggesting confirmation of expectations 
 - ("This all began when...", "This chain of events began with...", "This is a direct consequence of..."): Tracing present to past cause sentence
