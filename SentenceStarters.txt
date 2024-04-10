@@ -568,5 +568,11 @@
 - Noting cultural maintenance sentence ("...is reproduced through...", "...persists via...", "...gets reinforced culturally by...")
 - Suggesting negative feedback loop sentence ("...creates a vicious cycle whereby...", "...spins out of control through...", "...spawns further...")
 
+Here are some additional examples of "Temporal Anchoring" phrases that locate the discussion in a specific temporal context, sequence or historical framing:
+
+Temporal Anchoring ("At the outset", "From the start", "Initially", "To begin with", "In the first place", "At the onset", "As of late", "Of late", "In recent times", "In contemporary times", "In the modern era", "In the past", "In bygone days",, "In the aftermath", "In the wake of", "In the lead-up to", "In the midst of", "At the height of", "In the twilight of",  "As of late",  "In the final analysis",  "When all is said and done", "In the end")
+
+The typical context for these phrases is to establish a specific temporal framing, whether that's the timing, sequence, duration or historical context relevant to the topic being discussed. They help anchor the argument within a clear chronological or historical perspective.
+
 
 - as if ( it is unfathomable that they / it is too much to ask / it is beyond the pale for / it is audacity at its absolute height to / the very idea that they might )
