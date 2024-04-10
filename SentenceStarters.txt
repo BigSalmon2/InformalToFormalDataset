@@ -574,5 +574,17 @@ Temporal Anchoring ("At the outset", "From the start", "Initially", "To begin wi
 
 The typical context for these phrases is to establish a specific temporal framing, whether that's the timing, sequence, duration or historical context relevant to the topic being discussed. They help anchor the argument within a clear chronological or historical perspective.
 
+ Comparative Assessments
+- "More effective than"
+- "Less successful than"
+- "Superior to"
+- "Inferior to"
+- "Better than"
+- "Worse than"
+- "On par with"
+- "Comparable to"
+- "Outperforms"
+- "Underperforms"
+
 
 - as if ( it is unfathomable that they / it is too much to ask / it is beyond the pale for / it is audacity at its absolute height to / the very idea that they might )
