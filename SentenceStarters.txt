@@ -605,5 +605,38 @@ The typical context for these phrases is to establish a specific temporal framin
 - I'm excited about the opportunity to...
 - Reflecting back...
 
+Here's an even more detailed breakdown of a transitional phrase functional academic taxonomy:
+
+Additive Transitions:
+- Similarity
+  - Parallel
+    - Identical (e.g. "likewise", "similarly", "in the same way") 
+    - Equivalent (e.g. "equally", "correspondingly", "just as")
+  - Comparative
+    - Direct (e.g. "in comparison", "by comparison", "relative to") 
+    - Indirect (e.g. "in a similar fashion", "along the same lines", "analogously")
+- Reinforcement
+  - Additive
+    - Simple (e.g. "furthermore", "in addition", "moreover")
+    - Emphatic (e.g. "indeed", "in fact", "above all")
+  - Intensifying 
+    - Amplifying (e.g. "to an even greater extent", "to an even higher degree", "all the more so")
+    - Accentuating (e.g. "particularly", "specifically", "most notably")
+  - Elaborative
+    - Explanatory (e.g. "in other words", "that is to say", "to put it differently") 
+    - Exemplifying (e.g. "for example", "to illustrate", "such as")
+- Restatement
+  - Rephrasing
+    - Synonymous (e.g. "that is to say", "in other terms", "to rephrase")
+    - Metaphorical (e.g. "in essence", "at the heart of", "fundamentally")
+  - Clarification
+    - Qualifying (e.g. "to clarify", "to be more precise", "to be clear")
+    - Specifying (e.g. "specifically", "particularly", "namely")
+  - Exemplification
+    - Specific (e.g. "for example", "to illustrate", "in the form of") 
+    - General (e.g. "such as", "including", "for instance")
+
+This extended taxonomy covers a wide range of additive transitional phrase functions and nuances. The categorization allows academic writers to thoughtfully select the most appropriate transitional device to logically connect and emphasize the relationships between ideas in their text.
+
 
 - as if ( it is unfathomable that they / it is too much to ask / it is beyond the pale for / it is audacity at its absolute height to / the very idea that they might )
