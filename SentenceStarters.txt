@@ -674,3 +674,10 @@ This extended taxonomy covers a wide range of additive transitional phrase funct
 - My commitment to... is reflected in my work with...
 - My approach to [aspect of work, e.g., leadership, problem-solving, innovation] involves...
 - Colleagues and supervisors often commend me for my [personal quality].
+
+
+concede valid aspects sentence:
+- there's no question that 
+- one can't deny that
+- admittedly,
+- to be sure,
