@@ -525,6 +525,7 @@
 - considered collectively,
 - The predictable result is
 - if it wasn't clear that, x left no doubt
+- implicit vote of confidence
 - the human cost, starkly illustrated by
 - as the last line of defense against
 - without delay
