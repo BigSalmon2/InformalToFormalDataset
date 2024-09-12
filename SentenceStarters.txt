@@ -676,6 +676,8 @@ This extended taxonomy covers a wide range of additive transitional phrase funct
 - My approach to [aspect of work, e.g., leadership, problem-solving, innovation] involves...
 - Colleagues and supervisors often commend me for my [personal quality].
 
+- it is a [ source | testament | product | form | hallmark | far cry | blueprint ]
+
 
 concede valid aspects sentence:
 - there's no question that 
