@@ -700,3 +700,4 @@ concede valid aspects sentence:
 - sparing no effort in
 - taking a proactive approach to
 - seizing every opportunity to 
+- making it his mission to
