@@ -698,3 +698,4 @@ concede valid aspects sentence:
 - has made a point of
 - making a concerted effort to
 - sparing no effort in
+- taking a proactive approach to
