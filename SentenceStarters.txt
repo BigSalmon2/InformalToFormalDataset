@@ -537,6 +537,8 @@
 
 - along similar lines / to the same effect / on the same note  / in keeping with this / applying this logic
 
+- added X to its repertoire
+
 "- ("On cue...", "As predicted...", "To no one's surprise..."):  Suggesting confirmation of expectations 
 - ("This all began when...", "This chain of events began with...", "This is a direct consequence of..."): Tracing present to past cause sentence
 -  ("Even if by some chance...", "If by some miracle...", "In the unlikely event that..."): Contemplating unlikely possibility sentence
