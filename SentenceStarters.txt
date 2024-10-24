@@ -537,6 +537,7 @@
 - at the margins
 - it has become impossible to ignore 
 - it is becoming ever clearer that
+- the sobering implications of
 
 - along similar lines / to the same effect / on the same note  / in keeping with this / applying this logic
 
@@ -709,3 +710,6 @@ concede valid aspects sentence:
 - taking a proactive approach to
 - seizing every opportunity to 
 - making it his mission to
+
+- roused X to the realization that
+- shone a glaring light on
