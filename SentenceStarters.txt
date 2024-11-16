@@ -552,6 +552,7 @@
 - it is one thing
 - it has long been speculated that
 - in one breath
+- as conditions permit...
 
 - along similar lines / to the same effect / on the same note  / in keeping with this / applying this logic
 
@@ -570,6 +571,8 @@
 - ("In the final analysis...", "Ultimately...", "When all is said and done..."): Signaling a culminating conclusion
 - ("If that weren't enough...", "Even more troubling...", "Worse yet...", "To make matters worse...", "As if that weren't enough...",
 "What's more..."): Highlighting a significant aggravating factor
+
+- Introducing subtle contradiction: ("On the one hand...", "Ironically...", "In one breath...", "Simultaneously...", "
 
 Introducing subtle contradiction
 
