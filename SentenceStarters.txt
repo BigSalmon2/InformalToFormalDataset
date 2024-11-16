@@ -732,3 +732,5 @@ concede valid aspects sentence:
 
 - roused X to the realization that
 - shone a glaring light on
+
+- ( are a blunt instrument / have an indiscriminate effect / do not discriminate / make no distinction between / maximize collateral damage )
