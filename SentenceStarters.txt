@@ -571,6 +571,8 @@
 - ("If that weren't enough...", "Even more troubling...", "Worse yet...", "To make matters worse...", "As if that weren't enough...",
 "What's more..."): Highlighting a significant aggravating factor
 
+Introducing subtle contradiction
+
 - Affective processes: Words related to emotions like happy, cried, abandon
 - Positive emotion: Words like love, nice, sweet 
 - Negative emotion: Words like hurt, ugly, nasty
