@@ -767,3 +767,6 @@ Temporal Positioning:
 
 
 Understatement emphasis ("to say the least...", "if nothing else...", "at the very least...")
+
+- Legacy markers ("as ever before...", "as in times past...", "continuing the pattern of...")
+- Current continuation ("still...", "even now...", "to this day...")
