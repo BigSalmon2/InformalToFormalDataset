@@ -764,3 +764,6 @@ Temporal Positioning:
 - Final assessment markers ("In the final analysis...", "When all is said and done...", "In the end...")
 - Current status markers ("To date...", "As things stand...", "As matters currently rest...")
 - Progressive markers ("As time has passed...", "Over the course of time...", "With the passage of time...")
+
+
+Understatement emphasis ("to say the least...", "if nothing else...", "at the very least...")
