@@ -735,3 +735,32 @@ concede valid aspects sentence:
 - shone a glaring light on
 
 - ( are a blunt instrument / have an indiscriminate effect / do not discriminate / make no distinction between / maximize collateral damage ): ( Suggesting an overly broad impact / Conveying unintended consequences )
+
+
+Temporal Positioning:
+
+1. Starting Points
+- Opening time markers ("At the outset...", "From the start...", "Initially...", "To begin with...")
+- Foundational time markers ("In the first place...", "At the onset...", "From day one...")
+- Origin indicators ("When it all began...", "At its inception...", "From its origins...")
+
+2. Recent Time References
+- Contemporary markers ("As of late...", "Of late...", "In recent times...")
+- Modern era indicators ("In contemporary times...", "In the modern era...", "In the present day...")
+- Current period markers ("These days...", "At this juncture...", "In this day and age...")
+
+3. Past References
+- Historical markers ("In the past...", "In bygone days...", "In earlier times...")
+- Retrospective indicators ("Looking back...", "In retrospect...", "Upon reflection...")
+- Legacy markers ("Historically speaking...", "Traditionally...", "In former times...")
+
+4. Event-Related Positioning
+- Consequential markers ("In the aftermath...", "In the wake of...", "Following from...")
+- Anticipatory markers ("In the lead-up to...", "Prior to...", "In anticipation of...")
+- During-event markers ("In the midst of...", "At the height of...", "In the thick of...")
+- Decline markers ("In the twilight of...", "In the waning days of...", "As things wound down...")
+
+5. Conclusive Time References
+- Final assessment markers ("In the final analysis...", "When all is said and done...", "In the end...")
+- Current status markers ("To date...", "As things stand...", "As matters currently rest...")
+- Progressive markers ("As time has passed...", "Over the course of time...", "With the passage of time...")
