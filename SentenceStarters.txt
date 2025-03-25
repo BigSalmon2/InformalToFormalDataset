@@ -777,3 +777,12 @@ Understatement emphasis ("to say the least...", "if nothing else...", "at the ve
 
 - Legacy markers ("as ever before...", "as in times past...", "continuing the pattern of...")
 - Current continuation ("still...", "even now...", "to this day...")
+
+**[Me]: "Customer service escalation phrases"**  
+>Which of the following de-escalation techniques should I categorize?  
+- **Empathy statements** ("I understand why you’d feel that way...", "That sounds frustrating...")  
+- **Authority referrals** ("Let me connect you with a specialist...", "I’ll escalate this to our resolution team...")  
+- **Solution framing** ("What I can do is...", "Here’s how we’ll make this right...")  
+- **Boundary setting** ("While I can’t X, I can Y...", "Our policy allows me to...")  
+- **Time management cues** ("I’ll personally follow up by Friday...", "You’ll receive an update within 24h...")  
+- **Goodwill gestures** ("As a courtesy, we’ll...", "I’ve applied a one-time credit for...")  
